@@ -7,6 +7,7 @@
   "build/images/1612741165_114-p-fon-retro-goluboi-167.png": "/build/images/1612741165_114-p-fon-retro-goluboi-167.png",
   "build/images/SYLLBackground Black Pattern.png": "/build/images/SYLLBackground Black Pattern.png",
   "build/images/SYLLBackground Gray Pattern.png": "/build/images/SYLLBackground Gray Pattern.png",
+  "build/images/HeaderBackgroundMobile.png": "/build/images/HeaderBackgroundMobile.png",
   "build/images/HeaderBackground.png": "/build/images/HeaderBackground.png",
   "build/images/ClairvoyantText.png": "/build/images/ClairvoyantText.png",
   "build/fonts/Woodchuck/OTF/Woodchuck-Regular.otf": "/build/fonts/Woodchuck/OTF/Woodchuck-Regular.otf",
@@ -23,7 +24,11 @@
   "build/fonts/Woodchuck/WOFF2/Woodchuck-Bold.woff2": "/build/fonts/Woodchuck/WOFF2/Woodchuck-Bold.woff2",
   "build/fonts/Woodchuck/WOFF2/Woodchuck-Thin.woff2": "/build/fonts/Woodchuck/WOFF2/Woodchuck-Thin.woff2",
   "build/fonts/Woodchuck/WOFF2/Woodchuck-Heavy.woff2": "/build/fonts/Woodchuck/WOFF2/Woodchuck-Heavy.woff2",
+  "build/fonts/Qarmic sans Abridged.ttf": "/build/fonts/Qarmic sans Abridged.ttf",
   "build/images/fav.jpg": "/build/images/fav.jpg",
+  "build/images/Instagram.svg": "/build/images/Instagram.svg",
+  "build/images/Telegram.svg": "/build/images/Telegram.svg",
+  "build/images/Twitter.svg": "/build/images/Twitter.svg",
   "build/images/arrow-forward-outline.svg": "/build/images/arrow-forward-outline.svg",
   "build/images/arrow-back-outline.svg": "/build/images/arrow-back-outline.svg"
 }
